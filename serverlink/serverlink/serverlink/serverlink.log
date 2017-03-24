@@ -1,0 +1,20 @@
+nohup: ignoring input
+
+
+
+
+Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /usr/www/mgm2/public/website/serverlink/classes/class.serverlink.php on line 149
+Server Started : 2016-04-01 19:36:06
+Master socket  : Resource id #14
+Listening on   : 208.146.35.56 port 29945
+
+nohup: ignoring input
+
+
+
+
+Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /usr/www/mgm2/public/website/serverlink/classes/class.serverlink.php on line 149
+Server Started : 2016-04-01 19:36:49
+Master socket  : Resource id #14
+Listening on   : 208.146.35.56 port 29945
+
